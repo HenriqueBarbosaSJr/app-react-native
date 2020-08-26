@@ -1,4 +1,4 @@
-# Tela básica de um aplicativo Mobile - React Native
+# Aplicativo Mobile - React Native
 
 Exemplo de Aplicativo Mobile utilizando React Native.
 
